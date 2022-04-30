@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anipage/static/css/main.803460c7.css",
+    "main.js": "/anipage/static/js/main.0d27d12d.js",
+    "static/js/787.43ce729e.chunk.js": "/anipage/static/js/787.43ce729e.chunk.js",
+    "static/media/logo.svg": "/anipage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anipage/index.html",
+    "main.803460c7.css.map": "/anipage/static/css/main.803460c7.css.map",
+    "main.0d27d12d.js.map": "/anipage/static/js/main.0d27d12d.js.map",
+    "787.43ce729e.chunk.js.map": "/anipage/static/js/787.43ce729e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.803460c7.css",
+    "static/js/main.0d27d12d.js"
+  ]
+}
