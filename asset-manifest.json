@@ -1,16 +1,11 @@
 {
   "files": {
-    "main.css": "/anipage/static/css/main.e6c13ad2.css",
-    "main.js": "/anipage/static/js/main.8c7361a5.js",
-    "static/js/787.43ce729e.chunk.js": "/anipage/static/js/787.43ce729e.chunk.js",
+    "main.js": "/anipage/static/js/main.ebc0c2b7.js",
     "static/media/logoAni1.5x.png": "/anipage/static/media/logoAni1.5x.23460f31b50e4724083f.png",
     "index.html": "/anipage/index.html",
-    "main.e6c13ad2.css.map": "/anipage/static/css/main.e6c13ad2.css.map",
-    "main.8c7361a5.js.map": "/anipage/static/js/main.8c7361a5.js.map",
-    "787.43ce729e.chunk.js.map": "/anipage/static/js/787.43ce729e.chunk.js.map"
+    "main.ebc0c2b7.js.map": "/anipage/static/js/main.ebc0c2b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8c7361a5.js"
+    "static/js/main.ebc0c2b7.js"
   ]
 }
