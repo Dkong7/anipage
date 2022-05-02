@@ -7,7 +7,8 @@ import Logo from '../../images/logoAni1.5x.png'
 export const Nav = styled.nav `
     background: ${({scrollNav}) => (scrollNav ? '#a3a3a3' : 'transparent')};
     height: 120px;
-    margin-top: 1rem;
+    margin-left:-6rem;
+    margin-top: -8rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,6 +36,7 @@ export const Logotipo = styled.img.attrs({src:`${Logo}`})`
 `
 export const NavbarContainer = styled.div`
     display:flex;
+    margin-top:2rem;
     justify-content: space-between;
     height: 80px;
     z-index: 1;
