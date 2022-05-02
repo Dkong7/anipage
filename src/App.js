@@ -19,6 +19,9 @@ function App() {
       <Navbar toggle={toggle} /> 
       <Switch>
         <Route path="/" component={Home} exact/>
+        <Route path="/anipage" component={Home} exact/>
+        <Route path="*" elemement={<navigate to="/"/>}/>
+
       </Switch>
     </Router>
   );
