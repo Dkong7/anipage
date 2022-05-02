@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import FrontComponent from '../components/FrontComponent'
+import TextoPro from '../components/TextoPro';
 
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
   return (
      <>
       <FrontComponent/>
+      <TextoPro/>
      </>
   )
 };
